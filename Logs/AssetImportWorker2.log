@@ -228,3 +228,144 @@ Start importing Assets/3D/TesteG1.fbx using Guid(8a0f3ec0af362f84096b7d0f2e035dd
  -> (artifact id: '6fa26be9ee991859df888e0c81c7d11d') in 0.150685 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 2284.548382 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'aaf910accc72db1552e58e752620fdca') in 0.162732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.020132 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6d17d2c002a89671596384c6371b8735') in 0.046563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.033286 seconds.
+  path: Assets/Scripts(Menu)/ScreenBrightness.cs
+  artifactKey: Guid(62cd4648aeeb76a4ca548f2e60437732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/ScreenBrightness.cs using Guid(62cd4648aeeb76a4ca548f2e60437732) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '940f04e16c82433e3973cb82d8a3cfc0') in 0.001109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006792 seconds.
+  path: Assets/Scripts(Menu)/TrocarTela.cs
+  artifactKey: Guid(fe2965c030056fd43af0e6d264aee143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/TrocarTela.cs using Guid(fe2965c030056fd43af0e6d264aee143) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '17f33ea48c2e5f0de5641a27d2eeaeee') in 0.001327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.007932 seconds.
+  path: Assets/Scripts(Menu)/MenuPrincipal.cs
+  artifactKey: Guid(2a797e85140ef824da1bf74ec1483b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/MenuPrincipal.cs using Guid(2a797e85140ef824da1bf74ec1483b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2027486e60358c1f788856df4f329b30') in 0.000831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006259 seconds.
+  path: Assets/Scripts(Mesa 4)/CheckCompletion.cs
+  artifactKey: Guid(bbfd991460aae0f46b73862128c2283c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Mesa 4)/CheckCompletion.cs using Guid(bbfd991460aae0f46b73862128c2283c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3262c15c7397f8149f0e82132edb119c') in 0.001069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.007400 seconds.
+  path: Assets/Scripts(Mesa 4)/ElectronCollector.cs
+  artifactKey: Guid(3ca1ed385a7b2c947b556bef0c0723f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Mesa 4)/ElectronCollector.cs using Guid(3ca1ed385a7b2c947b556bef0c0723f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9345d9e6ccb4aaa647ed68c8fc27f5ed') in 0.000815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.005950 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cd14be5697d6eaf83ec47faf0e195855') in 0.014495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.006298 seconds.
+  path: Assets/Scripts(Mesa 4)/HapticFeedback.cs
+  artifactKey: Guid(7cf4808de56d7b2459911162123825fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Mesa 4)/HapticFeedback.cs using Guid(7cf4808de56d7b2459911162123825fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '67f4cc20234b79b2c5d07e6da266d46a') in 0.000878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006848 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f27f6d16a83af6012cd01b5ed3a95ac9') in 0.000981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006266 seconds.
+  path: Assets/Scripts(Menu)/MenuController.cs
+  artifactKey: Guid(280d58fa057716245b14835822977c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/MenuController.cs using Guid(280d58fa057716245b14835822977c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9d358bc856f021b597465d373836be49') in 0.000941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.006167 seconds.
+  path: Assets/Scripts(Mesa 4)/ElectronExcitation.cs
+  artifactKey: Guid(fd52038266ef218498d14458e3ecfe3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Mesa 4)/ElectronExcitation.cs using Guid(fd52038266ef218498d14458e3ecfe3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd0b73f80958ac7c0e60696df83d6e52a') in 0.000791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.008009 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3445cb431dc1f9d3c37773a7ee3cfee2') in 0.049755 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.027835 seconds.
+  path: Assets/Scripts(Menu)/ConfigMenu.cs
+  artifactKey: Guid(53b8a853801b21f46bb07b982e221919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/ConfigMenu.cs using Guid(53b8a853801b21f46bb07b982e221919) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '87d442526ed9c18fc11c33e32fe53533') in 0.001164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.009348 seconds.
+  path: Assets/Scripts(Menu)/PlayerController.cs
+  artifactKey: Guid(392838dfcf9b85446afff24b9816fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts(Menu)/PlayerController.cs using Guid(392838dfcf9b85446afff24b9816fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6fc8c7a70ae60c353710aa6e1235b03a') in 0.000944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
